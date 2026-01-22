@@ -2,7 +2,8 @@
 
 ## 👤 Student Details
 - **Name:** Ayegbusi Christian Toluwalase  
-- **Matric Number:** 24/15155  
+- **Matric Number:** 24/15155
+- **Department:** Computer Science
 - **Course:** Software Engineering (SEN)
 
 ---
@@ -62,3 +63,4 @@ The project demonstrates the full SDLC process including requirement analysis, d
 1. Clone the repository:
    ```bash
    git clone https://github.com/christiancode-sketch/SEN-201-Assignments.git
+
