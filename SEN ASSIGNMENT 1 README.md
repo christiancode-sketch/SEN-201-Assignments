@@ -2,7 +2,8 @@
 
 ## 👤 Student Details
 - **Name:** Ayegbusi Christian Toluwalase  
-- **Matric Number:** 24/15155  
+- **Matric Number:** 24/15155
+- **Department:** Computer Science
 - **Course:** SEN 201
 
 ---
@@ -44,3 +45,4 @@ It demonstrates basic Python programming and the use of GitHub for version contr
 2. Clone the repository:
    ```bash
    git clone -https://github.com/christiancode-sketch/SEN-201-Assignments.git
+
